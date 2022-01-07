@@ -16,7 +16,7 @@ I write about my experiences with what I find most interesting in life. Check th
 
 ### DMK Co-Ed Entrepreneurship Fraternity
 
-- I served as President of Purdue's entrepreneurship club, and organized startup programs for Purdue entrepreneurs!
+- I served as President of Purdue's entrepreneurship club and organized startup programs for Purdue entrepreneurs!
 
 - [DMK Website](http://alpha.deltamukappa.org/index.html)
 
@@ -25,3 +25,17 @@ I write about my experiences with what I find most interesting in life. Check th
 - I ran Startup Weekend Purdue and Startup Weekend Seoul - Remote Edition, and they were both a blast!
 
 - Check out [Startup Weekend](https://www.techstars.com/communities/startup-weekend).
+
+## Tech & Engineering
+
+### ZF Group (Friedrichshafen, Germany)
+
+- As a **Software Engineer Intern**, I built a full-stack analytics platform that automates ECU software development team's data analysis process, reducing the procedure from ~1 wk to 16 mins.
+
+### TRW (Farmington Hills, MI, USA)
+
+- As a **Hardware Engineer Intern**, I helped develop next generation centralized sensing technology for ADAS and Autonomous Vehicles.
+
+### TRW (Livonia, MI, USA)
+
+- As a **Product Engineer Intern**, I conducted a benchmarking study of our competitor's product and directed teardowns of the most recent IBC Brake module.
