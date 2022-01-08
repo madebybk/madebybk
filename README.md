@@ -28,15 +28,15 @@ I write about my experiences with what I find most interesting in life. Check th
 
 ## Tech & Engineering :computer:
 
-### *ZF Group <font size=3 style="font-weight: normal" >Friedrichshafen, Germany</font>*
+### *ZF Group <font size=3>Friedrichshafen, Germany</font>*
 
 - As a **Software Engineer Intern**, I built a full-stack analytics platform that automates ECU software development team's data analysis process, reducing the procedure from ~1 wk to 16 mins.
 
-### *TRW <font size=3 style="font-weight: normal" >Farmington Hills, MI, USA</font>*
+### *TRW <font size=3>Farmington Hills, MI, USA</font>*
 
 - As a **Hardware Engineer Intern**, I helped develop next generation centralized sensing technology for ADAS and Autonomous Vehicles.
 
-### *TRW <font size=3 style="font-weight: normal" >Livonia, MI, USA</font>*
+### *TRW <font size=3>Livonia, MI, USA</font>*
 
 - As a **Product Engineer Intern**, I conducted a benchmarking study of our competitor's product and directed teardowns of the most recent IBC Brake module.
 
