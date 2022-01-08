@@ -8,19 +8,19 @@ I write about my experiences with what I find most interesting in life. Check th
 
 ## Startup Communities :open_hands:
 
-### <img src="https://github.com/madebybk/madebybk/blob/main/EcoMake.png" width="30px"> *EcoMake*
+### *EcoMake* <img src="https://github.com/madebybk/madebybk/blob/main/EcoMake.png" width="30px">
 
 - Funded by Harris Corporation, I founded Purdue's first sustainability hackathon EcoMake.
 
 - Watch [EcoMake YouTube Video](https://www.youtube.com/watch?v=vfyeWsqCbw4), and check out [Press 1](https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2018/ecomake) and [Press 2](https://www.purdue.edu/newsroom/releases/2018/Q3/students-plan-problem-solving-weekend-to-build-teams,-dreams.html)
 
-### *DMK Co-Ed Entrepreneurship Fraternity*
+### *DMK Co-Ed Entrepreneurship Fraternity* <img src="https://github.com/madebybk/madebybk/blob/main/dmk.png" width="30">
 
-- <img src="https://github.com/madebybk/madebybk/blob/main/dmk.png" width="30"> I served as President of Purdue's entrepreneurship club and organized startup programs for Purdue entrepreneurs!
+- I served as President of Purdue's entrepreneurship club and organized startup programs for Purdue entrepreneurs!
 
 - [DMK Website](http://alpha.deltamukappa.org/index.html)
 
-### <img src="https://github.com/madebybk/madebybk/blob/main/techstars.png" width="30"> *Techstars Startup Weekend*
+### *Techstars Startup Weekend* <img src="https://github.com/madebybk/madebybk/blob/main/techstars.png" width="30">
 
 - I ran Startup Weekend Purdue and Startup Weekend Seoul - Remote Edition, and they were both a blast!
 
@@ -28,14 +28,14 @@ I write about my experiences with what I find most interesting in life. Check th
 
 ## Tech & Engineering :computer:
 
-### <img src="https://github.com/madebybk/madebybk/blob/main/zf.png" width="30px"> *ZF Group (Friedrichshafen, Germany)*
+### *ZF Group (Friedrichshafen, Germany)* <img src="https://github.com/madebybk/madebybk/blob/main/zf.png" width="30px">
 
 - As a **Software Engineer Intern**, I built a full-stack analytics platform that automates ECU software development team's data analysis process, reducing the procedure from ~1 wk to 16 mins.
 
-### <img src="https://github.com/madebybk/madebybk/blob/main/trw.png" width="30px"> *TRW (Farmington Hills, MI, USA)*
+### *TRW (Farmington Hills, MI, USA)* <img src="https://github.com/madebybk/madebybk/blob/main/trw.png" width="30px">
 
 - As a **Hardware Engineer Intern**, I helped develop next generation centralized sensing technology for ADAS and Autonomous Vehicles.
 
-### <img src="https://github.com/madebybk/madebybk/blob/main/trw.png" width="30px"> *TRW (Livonia, MI, USA)*
+### *TRW (Livonia, MI, USA)* <img src="https://github.com/madebybk/madebybk/blob/main/trw.png" width="30px">
 
 - As a **Product Engineer Intern**, I conducted a benchmarking study of our competitor's product and directed teardowns of the most recent IBC Brake module.
