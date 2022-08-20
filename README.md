@@ -30,7 +30,7 @@ I write about my experiences with what I find most interesting in life. Check th
 
 ### *AWS (Seoul, South Korea)*
 
-- As a **Solutions Architect Intern**, I built a cloud-optimized Kubernetes logging solution and created ![EKS Logging Workshop](https://catalog.workshops.aws/eks-logging/en-US) that presents 3 different log data pipelines for Amazon EKS using various AWS services (CloudWatch, Kinesis, Glue, S3, Athena, OpenSearch, etc.)
+- As a **Solutions Architect Intern**, I built a cloud-optimized Kubernetes logging solution and created [EKS Logging Workshop](https://catalog.workshops.aws/eks-logging/en-US) that presents 3 different log data pipelines for Amazon EKS using various AWS services (CloudWatch, Kinesis, Glue, S3, Athena, OpenSearch, etc.)
 
 ### *ZF Group (Friedrichshafen, Germany)*
 
