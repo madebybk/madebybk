@@ -6,6 +6,24 @@ Traveler of entrepreneurial ecosystems, I'm a product-focused engineer with a pa
 
 I write about my experiences with what I find most interesting in life. Check them out @ [bkekblog.vercel.app](https://bkekblog.vercel.app).
 
+## Tech & Engineering :computer:
+
+### *AWS (Seoul, South Korea)*
+
+- As a **Solutions Architect Intern**, I built a cloud-optimized Kubernetes logging solution and created [EKS Logging Workshop](https://catalog.workshops.aws/eks-logging/en-US) that presents 3 different log data pipelines for Amazon EKS using various AWS services (CloudWatch, Kinesis, Glue, S3, Athena, OpenSearch, etc.)
+
+### *ZF Group (Friedrichshafen, Germany)*
+
+- As a **Software Engineer Intern**, I built a full-stack analytics platform that automates ECU software development team's data analysis process, reducing the procedure from ~1 wk to 16 mins.
+
+### *TRW (Farmington Hills, MI, USA)*
+
+- As a **Application Engineer Intern**, I helped develop next generation centralized sensing technology for ADAS and Autonomous Vehicles.
+
+### *TRW (Livonia, MI, USA)*
+
+- As a **Product Engineer Intern**, I conducted a benchmarking study of our competitor's product and directed teardowns of the most recent IBC Brake module.
+
 ## Startup Communities :open_hands:
 
 ### *EcoMake*
@@ -25,24 +43,6 @@ I write about my experiences with what I find most interesting in life. Check th
 - I ran Startup Weekend Purdue and Startup Weekend Seoul - Remote Edition, and they were both a blast!
 
 - Check out [Startup Weekend](https://www.techstars.com/communities/startup-weekend).
-
-## Tech & Engineering :computer:
-
-### *AWS (Seoul, South Korea)*
-
-- As a **Solutions Architect Intern**, I built a cloud-optimized Kubernetes logging solution and created [EKS Logging Workshop](https://catalog.workshops.aws/eks-logging/en-US) that presents 3 different log data pipelines for Amazon EKS using various AWS services (CloudWatch, Kinesis, Glue, S3, Athena, OpenSearch, etc.)
-
-### *ZF Group (Friedrichshafen, Germany)*
-
-- As a **Software Engineer Intern**, I built a full-stack analytics platform that automates ECU software development team's data analysis process, reducing the procedure from ~1 wk to 16 mins.
-
-### *TRW (Farmington Hills, MI, USA)*
-
-- As a **Hardware Engineer Intern**, I helped develop next generation centralized sensing technology for ADAS and Autonomous Vehicles.
-
-### *TRW (Livonia, MI, USA)*
-
-- As a **Product Engineer Intern**, I conducted a benchmarking study of our competitor's product and directed teardowns of the most recent IBC Brake module.
 
 ## Preferred Tools :wrench:
 
