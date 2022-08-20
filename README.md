@@ -10,7 +10,7 @@ I write about my experiences with what I find most interesting in life. Check th
 
 ### *AWS (Seoul, South Korea)*
 
-- As a **Solutions Architect Intern**, I built a cloud-optimized Kubernetes logging solution and created [EKS Logging Workshop](https://catalog.workshops.aws/eks-logging/en-US) that presents 3 different log data pipelines for Amazon EKS using various AWS services (CloudWatch, Kinesis, Glue, S3, Athena, OpenSearch, etc.)
+- As a **Solutions Architect Intern**, I built a cloud-optimized Kubernetes logging solution and created [EKS Logging Workshop](https://catalog.workshops.aws/eks-logging/en-US) that presents 3 different log data pipelines for Amazon EKS using various AWS services (CloudWatch, Kinesis, Glue, S3, Athena, OpenSearch, etc.).
 
 ### *ZF Group (Friedrichshafen, Germany)*
 
@@ -30,7 +30,7 @@ I write about my experiences with what I find most interesting in life. Check th
 
 - Funded by Harris Corporation, I founded Purdue's first sustainability hackathon EcoMake.
 
-- Watch [EcoMake YouTube Video](https://www.youtube.com/watch?v=vfyeWsqCbw4), and check out [Press 1](https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2018/ecomake) and [Press 2](https://www.purdue.edu/newsroom/releases/2018/Q3/students-plan-problem-solving-weekend-to-build-teams,-dreams.html)
+- Watch [EcoMake YouTube Video](https://www.youtube.com/watch?v=vfyeWsqCbw4), and check out [Press 1](https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2018/ecomake) and [Press 2](https://www.purdue.edu/newsroom/releases/2018/Q3/students-plan-problem-solving-weekend-to-build-teams,-dreams.html).
 
 ### *DMK Co-Ed Entrepreneurship Fraternity*
 
