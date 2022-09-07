@@ -8,19 +8,19 @@ I write about my experiences with what I find most interesting in life. Check th
 
 ## Tech & Engineering :computer:
 
-### AWS | :kr: Seoul, South Korea
+### AWS | Seoul, South Korea :kr:
 
 - As a **Solutions Architect Intern**, I built a cloud-optimized Kubernetes logging solution and created [EKS Logging Workshop](https://catalog.workshops.aws/eks-logging/en-US) that presents 3 different log data pipelines for Amazon EKS using various AWS services (CloudWatch, Kinesis, Glue, S3, Athena, OpenSearch, etc.).
 
-### ZF Group | :de: Friedrichshafen, Germany
+### ZF Group | Friedrichshafen, Germany :kr:
 
 - As a **Software Engineer Intern**, I built a full-stack analytics platform that automates ECU software development team's data analysis process, reducing the procedure from ~1 wk to 16 mins.
 
-### TRW | :us: Farmington Hills, MI, USA
+### TRW | Farmington Hills, MI, USA :us:
 
 - As a **Application Engineer Intern**, I helped develop next generation centralized sensing technology for ADAS and Autonomous Vehicles.
 
-### TRW | :us: Livonia, MI, USA
+### TRW | Livonia, MI, USA :kr:
 
 - As a **Product Engineer Intern**, I conducted a benchmarking study of our competitor's product and directed teardowns of the most recent IBC Brake module.
 
