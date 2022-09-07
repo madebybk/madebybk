@@ -8,37 +8,37 @@ I write about my experiences with what I find most interesting in life. Check th
 
 ## Tech & Engineering :computer:
 
-### *AWS (Seoul, South Korea)*
+### AWS | :kr: Seoul, South Korea
 
 - As a **Solutions Architect Intern**, I built a cloud-optimized Kubernetes logging solution and created [EKS Logging Workshop](https://catalog.workshops.aws/eks-logging/en-US) that presents 3 different log data pipelines for Amazon EKS using various AWS services (CloudWatch, Kinesis, Glue, S3, Athena, OpenSearch, etc.).
 
-### *ZF Group (Friedrichshafen, Germany)*
+### ZF Group | :de: Friedrichshafen, Germany
 
 - As a **Software Engineer Intern**, I built a full-stack analytics platform that automates ECU software development team's data analysis process, reducing the procedure from ~1 wk to 16 mins.
 
-### *TRW (Farmington Hills, MI, USA)*
+### TRW | :us: Farmington Hills, MI, USA
 
 - As a **Application Engineer Intern**, I helped develop next generation centralized sensing technology for ADAS and Autonomous Vehicles.
 
-### *TRW (Livonia, MI, USA)*
+### TRW | :us: Livonia, MI, USA
 
 - As a **Product Engineer Intern**, I conducted a benchmarking study of our competitor's product and directed teardowns of the most recent IBC Brake module.
 
 ## Startup Communities :open_hands:
 
-### *EcoMake*
+### EcoMake
 
 - Funded by Harris Corporation, I founded Purdue's first sustainability hackathon EcoMake.
 
 - Watch [EcoMake YouTube Video](https://www.youtube.com/watch?v=vfyeWsqCbw4), and check out [Press 1](https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2018/ecomake) and [Press 2](https://www.purdue.edu/newsroom/releases/2018/Q3/students-plan-problem-solving-weekend-to-build-teams,-dreams.html).
 
-### *DMK Co-Ed Entrepreneurship Fraternity*
+### DMK Co-Ed Entrepreneurship Fraternity
 
 - I served as President of Purdue's entrepreneurship club and organized startup programs for Purdue entrepreneurs!
 
 - [DMK Website](http://alpha.deltamukappa.org/index.html)
 
-### *Techstars Startup Weekend*
+### Techstars Startup Weekend
 
 - I ran Startup Weekend Purdue and Startup Weekend Seoul - Remote Edition, and they were both a blast!
 
