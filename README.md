@@ -16,7 +16,7 @@ I write about my experiences with what I find most interesting in life. Check th
 
 ### ZF Group
 
-*Friedrichshafen, Germany :kr:*
+*Friedrichshafen, Germany :de:*
 
 - As a **Software Engineer Intern**, I built a full-stack analytics platform that automates ECU software development team's data analysis process, reducing the procedure from ~1 wk to 16 mins.
 
@@ -28,7 +28,7 @@ I write about my experiences with what I find most interesting in life. Check th
 
 ### TRW
 
-*Livonia, MI, USA :kr:*
+*Livonia, MI, USA :us:*
 
 - As a **Product Engineer Intern**, I conducted a benchmarking study of our competitor's product and directed teardowns of the most recent IBC Brake module.
 
