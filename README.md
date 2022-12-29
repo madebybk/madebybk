@@ -40,7 +40,7 @@ I write about my experiences with what I find most interesting in life. Check th
 
 ### DMK Startup Club
 
-- I served as President of Purdue's entrepreneurship club and organized startup programs for Purdue entrepreneurs! [DMK Website](http://alpha.deltamukappa.org/index.html)
+- I served as President of Purdue's entrepreneurship club and organized startup programs for Purdue entrepreneurs!
 
 ### Techstars Startup Weekend
 
