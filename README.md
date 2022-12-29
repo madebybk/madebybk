@@ -28,7 +28,7 @@ I write about my experiences with what I find most interesting in life. Check th
 
 - Funded by Harris Corporation, I founded Purdue's first sustainability hackathon EcoMake. Check out [EcoMake YouTube Video](https://www.youtube.com/watch?v=vfyeWsqCbw4), [Press 1](https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2018/ecomake) and [Press 2](https://www.purdue.edu/newsroom/releases/2018/Q3/students-plan-problem-solving-weekend-to-build-teams,-dreams.html).
 
-### DMK Startup Club
+### DMK - Purdue's Startup Club
 
 - I served as President of Purdue's entrepreneurship club and organized startup programs for Purdue entrepreneurs!
 
