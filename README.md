@@ -36,21 +36,15 @@ I write about my experiences with what I find most interesting in life. Check th
 
 ### EcoMake
 
-- Funded by Harris Corporation, I founded Purdue's first sustainability hackathon EcoMake.
+- Funded by Harris Corporation, I founded Purdue's first sustainability hackathon EcoMake. Check out [EcoMake YouTube Video](https://www.youtube.com/watch?v=vfyeWsqCbw4), [Press 1](https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2018/ecomake) and [Press 2](https://www.purdue.edu/newsroom/releases/2018/Q3/students-plan-problem-solving-weekend-to-build-teams,-dreams.html).
 
-- Watch [EcoMake YouTube Video](https://www.youtube.com/watch?v=vfyeWsqCbw4), and check out [Press 1](https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2018/ecomake) and [Press 2](https://www.purdue.edu/newsroom/releases/2018/Q3/students-plan-problem-solving-weekend-to-build-teams,-dreams.html).
+### DMK Startup Club
 
-### DMK Co-Ed Entrepreneurship Fraternity
-
-- I served as President of Purdue's entrepreneurship club and organized startup programs for Purdue entrepreneurs!
-
-- [DMK Website](http://alpha.deltamukappa.org/index.html)
+- I served as President of Purdue's entrepreneurship club and organized startup programs for Purdue entrepreneurs! [DMK Website](http://alpha.deltamukappa.org/index.html)
 
 ### Techstars Startup Weekend
 
-- I ran Startup Weekend Purdue and Startup Weekend Seoul - Remote Edition, and they were both a blast!
-
-- Check out [Startup Weekend](https://www.techstars.com/communities/startup-weekend).
+- I ran Startup Weekend Purdue and Startup Weekend Seoul - Remote Edition, and they were both a blast! Check out [Startup Weekend](https://www.techstars.com/communities/startup-weekend).
 
 ## Preferred Tools :wrench:
 
