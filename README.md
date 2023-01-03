@@ -34,7 +34,7 @@ I write about my experiences with what I find most interesting in life. Check th
 
 ### Techstars Startup Weekend
 
-- I ran Startup Weekend Purdue and Startup Weekend Seoul - Remote Edition, and they were both a blast! Check out [Startup Weekend](https://www.techstars.com/communities/startup-weekend).
+- I ran Startup Weekend Purdue and Startup Weekend Seoul, and they were both a blast! Check out [Startup Weekend](https://www.techstars.com/communities/startup-weekend).
 
 ## Preferred Tools :wrench:
 
