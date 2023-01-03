@@ -14,7 +14,7 @@ I write about my experiences with what I find most interesting in life. Check th
 
 ### ZF Group
 
-- As a **Software Engineer Intern**, I built a full-stack analytics platform that automates ECU software development team's data analysis process, reducing the procedure from ~1 wk to 16 mins.
+- As a **Software Engineer Intern**, I built a full-stack analytics platform that automates ECU software development team's data analysis process, reducing the procedure from ~1 wk of manual work to 16 mins of automated analysis.
 
 ### TRW
 
