@@ -2,15 +2,11 @@
 
 Traveler of entrepreneurial ecosystems, I'm a cloud engineer with a passion to build meaningful products and to share what I know about the world.
 
-## Blog &#x270d;
-
 I write about my experiences with what I find most interesting in life. Check them out @ [bit.ly/bknotion](https://bit.ly/bknotion).
 
-## Tech & Engineering :computer:
+I'm currently working as a Solutions Architect @ **Amazon Web Services (AWS)**, helping customers successfully build on AWS. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/byeonghun/)!
 
-I'm currently working as a Solutions Architect @ **Amazon Web Services (AWS)**, helping customers to successfully build on AWS.
-
-## Preferred Tools :wrench:
+## Favorite Tools :wrench:
 
 ### Programming Langugaes
 
