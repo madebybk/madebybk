@@ -1,9 +1,5 @@
 # Hi! I'm BK <img src="https://github.com/madebybk/madebybk/blob/main/wave.gif" width="30px">
 
-Traveler of entrepreneurial ecosystems, I'm a cloud engineer with a passion to build meaningful products and to share what I know about the world.
-
-I write about my experiences with what I find most interesting in life. Check them out @ [bit.ly/bknotion](https://bit.ly/bknotion).
-
 I'm currently working as a Solutions Architect @ **Amazon Web Services (AWS)**, helping customers successfully build on AWS. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/byeonghun/)!
 
 ## Favorite Tools :wrench:
